@@ -1,0 +1,12 @@
+<!-- res/values/attrs.xml -->
+<resources>
+    <declare-styleable name="ArcProgressBar">
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="foregroundColor" format="color" />
+        <attr name="pointerColor" format="color" />
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="centerColor" format="color" />
+    </declare-styleable>
+</resources>
