@@ -1,4 +1,4 @@
-# ArcProgressBarProject
+# ArcProgressBarProject for android
 
 This project demonstrates how to create a customizable Arc Progress Bar in Android, with gradient colors and smooth animations.
 ## Demo
